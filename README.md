@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @guje0807
 - 👀 I’m interested in Machines that can think
-- 🌱 I’m currently learning Artificial Intelligence and Machine learning
-- 💞️ I’m looking to collaborate on AI Projects
+- 🌱 Full Stack Developer and Machine Learning Enthusiast
+- 💞️ I’m looking to collaborate on AI Projects and Web Development
 - 📫 How to reach me e-mail me at aakashguje@gmail.com
 
 <!---
